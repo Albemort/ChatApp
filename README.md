@@ -2,7 +2,7 @@
 
 ### Yleistä
 
-Tämä raportti käsittelee yksinkertaisen chat-sovelluksen arkkitehtuuria ja toimintaa. Sovellus on toteutettu Reactilla ja se hyödyntää WebSocketteja reaaliaikaisen viestinnän mahdollistamiseksi. Lisäksi sovelluksessa on RESTful API, jolla haetaan palvelimelta vanhat viestit.
+Sovellus on toteutettu Reactilla ja se hyödyntää WebSocketteja reaaliaikaisen viestinnän mahdollistamiseksi. Lisäksi sovelluksessa on RESTful API, jolla haetaan palvelimelta vanhat viestit.
 
 ### Käyttöliittymä
 
